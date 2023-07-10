@@ -20,6 +20,8 @@ The `backend/` directory contains an example [node JS](https://nodejs.org/en) AP
 - [W3 Schools](https://www.w3schools.com/): lots of language resources including HTML, CSS, and JavaScript
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): more HTML, CSS, and JavaScript resources along with the best documentation on backend development for the web
 - [React](https://react.dev/): frontend JavaScript library that makes some aspects of development easier. I recommend having a thorough understanding of JavaScript before diving into React.
+- [Public APIs](https://github.com/public-apis/public-apis): a list of free public APIs!
+- [CBI Hackathon Resources](https://github.com/ConstellationBrands/hackathon-resources): resources curated by us at CBI.
 
 ## Going Further
 - **JavaScript and CSS:** Javascript can also control the style of each element! Try to change the color of the status indicator conditionally. Make the text green if the contact is online and red otherwise.
