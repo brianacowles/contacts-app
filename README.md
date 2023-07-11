@@ -28,7 +28,7 @@ The `backend/` directory contains an example [node JS](https://nodejs.org/en) AP
 - **Loading:** Add a loading indicator while the timeout is being resolved to let the user know the page is still progressing. (Increase the timeout if needed)
 - **Pagination**: Implement a pagination feature that allows users to navigate through multiple pages of contacts. 
 - **Responsiveness**: Edit the CSS to use responsive sizes (ex. %, rem, vw, flexbox, css grids...) so that the page renders correctly on different sized screens. 
-- **Set up a database**: Set up a real database and connect to it using the code in `real/backend/`. There are a million ways to spin up a database for a few cents or less. Try using [AWS](https://aws.amazon.com/) or Fly.io. 
+- **Set up a database**: Set up a real database and connect to it using the code in `real/backend/`. There are a million ways to spin up a database for a few cents or less. Try using [AWS](https://aws.amazon.com/) or [Fly.io](https://fly.io). 
 
 **Disclaimer:**
 
